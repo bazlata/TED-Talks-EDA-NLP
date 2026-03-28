@@ -1,0 +1,1 @@
+The project was done within a basic Python course SoSe 2025 at the University of Vienna. The aim is to explore a Kaggle dataset and derive some valuable linguistics insights from the talks transcripts. The main methodology is an application of basic NLP Python libraries.
